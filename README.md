@@ -8,6 +8,6 @@ cd King-Hacking
 bash King-Tools.sh
 ```
 ### My Accounts
-* [TELEGRAM](https://t.me/hackeer1)
+
 * [FACEBOOK](https://www.facebook.com/king.hacking.sy)
-* [INSTAGRAM](https://instagram.com/king1hacking)
+* [INSTAGRAM](https://instagram.com/indonimous)
