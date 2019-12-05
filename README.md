@@ -10,7 +10,7 @@
 ![Screen](http://www.m9c.net/uploads/15563553591.jpg)
 ### Installations
 ```
-git clone https://github.com/king-hacking/King-Hacking.git
+git clone https://github.com/king-hacking/King-Hackers.git
 cd King-Hacking
 bash King-Tools.sh
 ```
@@ -18,4 +18,4 @@ bash King-Tools.sh
 
 * [FACEBOOK](https://www.facebook.com/king.hacking.sy)
 * [INSTAGRAM](https://instagram.com/indonimous)
-* [WEBSITES](www.pasaronlen.com)
+* [WEBSITES](pasaronlen.com)
